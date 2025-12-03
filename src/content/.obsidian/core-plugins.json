@@ -7,9 +7,9 @@
   "canvas": false,
   "outgoing-link": true,
   "tag-pane": true,
-  "footnotes": false,
-  "properties": false,
-  "page-preview": false,
+  "footnotes": true,
+  "properties": true,
+  "page-preview": true,
   "daily-notes": false,
   "templates": false,
   "note-composer": false,
@@ -22,12 +22,12 @@
   "random-note": false,
   "outline": true,
   "word-count": true,
-  "slides": false,
+  "slides": true,
   "audio-recorder": false,
   "workspaces": false,
   "file-recovery": true,
   "publish": false,
   "sync": false,
   "bases": true,
-  "webviewer": false
+  "webviewer": true
 }

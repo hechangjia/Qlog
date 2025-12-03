@@ -1,9 +1,9 @@
 {
-  "runWizardOnStartup": true,
+  "runWizardOnStartup": false,
   "currentTemplate": "standard",
-  "currentTheme": "oxygen",
+  "currentTheme": "macos",
   "customThemeFile": "custom",
-  "contentOrganization": "file-based",
+  "contentOrganization": "folder-based",
   "themeColors": {
     "mode": "simple",
     "simpleColors": {
@@ -12,16 +12,16 @@
     }
   },
   "siteInfo": {
-    "site": "https://astro-modular.netlify.app",
-    "title": "Astro Modular",
-    "description": "A flexible blog theme designed for Obsidian users.",
-    "author": "David V. Kimball",
-    "language": "en",
+    "site": "https://qlog.netlify.app",
+    "title": "小镇错题家",
+    "description": "Qlog=QQzone+Blog+Obsidian",
+    "author": "贺昌嘉",
+    "language": "zh-CN",
     "faviconThemeAdaptive": true,
-    "defaultOgImageAlt": "Astro Modular logo."
+    "defaultOgImageAlt": "logo of Qlog."
   },
   "layout": {
-    "contentWidth": "45rem"
+    "contentWidth": "70rem"
   },
   "tableOfContents": {
     "enabled": true,
@@ -33,7 +33,7 @@
     "showSocialIconsInFooter": true
   },
   "seo": {
-    "defaultOgImageAlt": "Astro Modular logo."
+    "defaultOgImageAlt": "logo of Qlog."
   },
   "navigation": {
     "showNavigation": true,
@@ -41,19 +41,19 @@
     "showMobileMenu": true,
     "pages": [
       {
-        "title": "Posts",
+        "title": "文章",
         "url": "/posts"
       },
       {
-        "title": "Projects",
+        "title": "项目",
         "url": "/projects"
       },
       {
-        "title": "Docs",
+        "title": "文档",
         "url": "/docs"
       },
       {
-        "title": "About",
+        "title": "关于",
         "url": "/about"
       },
       {
@@ -63,14 +63,14 @@
     ],
     "social": [
       {
-        "title": "X",
-        "url": "https://x.com/davidvkimball",
-        "icon": "x-twitter"
+        "title": "GitHub",
+        "url": "https://github.com/hechangjia",
+        "icon": "github"
       },
       {
-        "title": "GitHub",
-        "url": "https://github.com/davidvkimball",
-        "icon": "github"
+        "title": "B站",
+        "url": "https://space.bilibili.com/3494374983862361?spm_id_from=333.1007.0.0",
+        "icon": "bilibili"
       }
     ]
   },
@@ -80,9 +80,9 @@
     "placeholder": "Search posts",
     "search": {
       "posts": true,
-      "pages": false,
-      "projects": false,
-      "docs": false
+      "pages": true,
+      "projects": true,
+      "docs": true
     },
     "sections": {
       "quickActions": true,
@@ -108,14 +108,14 @@
     },
     "projects": {
       "enabled": true,
-      "count": 2
+      "count": 3
     },
     "docs": {
       "enabled": true,
       "count": 3
     },
     "blurb": {
-      "placement": "below"
+      "placement": "above"
     }
   },
   "postOptions": {
@@ -130,7 +130,7 @@
     "graphView": {
       "enabled": true,
       "showInSidebar": true,
-      "maxNodes": 100,
+      "maxNodes": 1000,
       "showOrphanedPosts": true
     },
     "postNavigation": true,
@@ -166,7 +166,7 @@
     "hideScrollBar": false,
     "scrollToTop": true,
     "showSocialIconsInFooter": true,
-    "profilePicture": false,
+    "profilePicture": true,
     "comments": false,
     "featureButton": "mode",
     "showPostCardCoverImages": "featured-and-posts",
@@ -194,12 +194,12 @@
   },
   "optionalFeatures": {
     "profilePicture": {
-      "enabled": false,
+      "enabled": true,
       "image": "/profile.jpg",
       "alt": "Profile picture",
-      "size": "md",
+      "size": "lg",
       "url": "",
-      "placement": "footer",
+      "placement": "header",
       "style": "circle"
     },
     "comments": {
@@ -244,7 +244,7 @@
   "availableThemes": "default",
   "customThemes": "",
   "customThemeGenerationEnabled": false,
-  "removeRibbonIcon": false,
+  "removeRibbonIcon": true,
   "helpButtonReplacement": {
     "enabled": false,
     "commandId": "astro-modular-settings:open-settings",

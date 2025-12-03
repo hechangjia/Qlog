@@ -2,13 +2,13 @@
   "showInlineTitle": false,
   "promptDelete": true,
   "showIndentGuide": false,
-  "attachmentFolderPath": "./attachments",
+  "attachmentFolderPath": "./",
   "userIgnoreFilters": [
     "bases/"
   ],
   "focusNewTab": false,
   "mobilePullAction": "file-explorer:new-file",
-  "trashOption": "system",
+  "trashOption": "local",
   "alwaysUpdateLinks": true,
   "useMarkdownLinks": true,
   "mobileToolbarCommands": [

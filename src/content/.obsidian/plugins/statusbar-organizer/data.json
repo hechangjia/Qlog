@@ -35,6 +35,10 @@
       "plugin-obsidian-git;2": {
         "position": 6,
         "visible": true
+      },
+      "plugin-properties;1": {
+        "position": 9,
+        "visible": true
       }
     }
   },

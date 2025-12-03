@@ -3,8 +3,19 @@
   "showViewHeader": true,
   "showRibbon": false,
   "enabledCssSnippets": [
-    "astro-modular-styling"
+    "astro-modular-styling",
+    "swap-new-tab-icon-with-home-mobile",
+    "hide-tabs-icon-mobile",
+    "hide-properties-heading-and-add-properties-button",
+    "hide-longpress-flair-mobile",
+    "hide-header-title-mobile",
+    "custom-draggable-top-area-windows",
+    "custom-draggable-top-area-mac",
+    "custom-draggable-top-area"
   ],
   "theme": "system",
-  "accentColor": ""
+  "accentColor": "",
+  "baseFontSize": 18,
+  "baseFontSizeAction": true,
+  "monospaceFontFamily": "Fira Code"
 }

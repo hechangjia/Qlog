@@ -122,21 +122,21 @@ This theme automatically arranges consecutive images in responsive grid layouts 
 
 **Two Images Side by Side**
 
-![Mountain landscape](https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&h=600&fit=crop)
-![Ocean view](https://images.unsplash.com/photo-1439066615861-d1af74d74000?w=800&h=600&fit=crop)
+![Mountain landscape](formatting-reference-7.jpg)
+![Ocean view](formatting-reference.jpg)
 
 **Three Images in a Row**
 
-![Forest path](https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&h=600&fit=crop)
-![Desert sunset](https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&h=600&fit=crop)
-![City skyline](https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=800&h=600&fit=crop)
+![Forest path](formatting-reference-5.jpg)
+![Desert sunset](formatting-reference-6.jpg)
+![City skyline](formatting-reference-4.jpg)
 
 **Four Images in a Row**
 
-![Winter landscape](https://images.unsplash.com/photo-1547036967-23d11aacaee0?w=800&h=600&fit=crop)
-![Spring flowers](https://images.unsplash.com/photo-1490750967868-88aa4486c946?w=800&h=600&fit=crop)
-![Summer beach](https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&h=600&fit=crop)
-![Autumn leaves](https://images.unsplash.com/photo-1441260038675-7329ab4cc264?w=800&h=600&fit=crop)
+![Winter landscape](formatting-reference-3.jpg)
+![Spring flowers](formatting-reference-2.jpg)
+![Summer beach](formatting-reference-1.jpg)
+![Autumn leaves](formatting-reference.jpg)
 
 **How to Use Multiple Images / Gallery**
 

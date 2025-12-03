@@ -46,3 +46,6 @@ src/content/.obsidian/workspace-mobile.json
 # Generated deployment platform files (GitHub Pages + Cloudflare Workers only)
 public/_redirects
 public/_headers
+
+# Local Netlify folder
+.netlify

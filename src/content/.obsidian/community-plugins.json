@@ -10,7 +10,6 @@
   "cmdr",
   "iconic",
   "paste-image-into-property",
-  "obsidian-git",
   "bases-cms",
   "alias-file-name-history",
   "simple-banner",
@@ -21,5 +20,6 @@
   "oxygen-settings",
   "astro-composer",
   "astro-modular-settings",
-  "obsidian42-brat"
+  "obsidian42-brat",
+  "obsidian-local-images-plus"
 ]

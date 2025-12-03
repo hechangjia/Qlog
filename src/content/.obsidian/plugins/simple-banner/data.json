@@ -12,7 +12,7 @@
     ],
     "bannerPadding": 8,
     "bannerFade": true,
-    "iconEnabled": false,
+    "iconEnabled": true,
     "iconSize": 96,
     "iconRadius": 8,
     "iconBackground": true,
@@ -25,7 +25,7 @@
       0,
       -24
     ],
-    "datetimeEnabled": false,
+    "datetimeEnabled": true,
     "datetimeOnPropOnly": false,
     "datetimeAlignment": [
       "flex-end",
