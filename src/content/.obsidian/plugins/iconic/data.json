@@ -32,7 +32,14 @@
       "icon": "lucide-folder"
     }
   },
-  "fileIcons": {},
+  "fileIcons": {
+    "bases/Home.base": {
+      "color": "green",
+      "unsynced": [
+        "5a72410e2df138dc"
+      ]
+    }
+  },
   "bookmarkIcons": {},
   "tagIcons": {},
   "propertyIcons": {

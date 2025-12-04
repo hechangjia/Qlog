@@ -34,6 +34,13 @@
       "title": "Sample Folder-Based Post",
       "slug": "sample-folder-based-post",
       "connections": 0
+    },
+    {
+      "id": "zootopia",
+      "type": "post",
+      "title": "糊涂蛋-🐰朱迪-🦊尼克",
+      "slug": "zootopia",
+      "connections": 0
     }
   ],
   "connections": [
@@ -109,9 +116,9 @@
     }
   ],
   "metadata": {
-    "totalPosts": 5,
+    "totalPosts": 6,
     "totalConnections": 14,
     "maxNodesApplied": false,
-    "originalNodeCount": 5
+    "originalNodeCount": 6
   }
 }

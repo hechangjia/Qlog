@@ -1,9 +1,9 @@
 {
   "runWizardOnStartup": false,
   "currentTemplate": "standard",
-  "currentTheme": "macos",
+  "currentTheme": "oxygen",
   "customThemeFile": "custom",
-  "contentOrganization": "folder-based",
+  "contentOrganization": "file-based",
   "themeColors": {
     "mode": "simple",
     "simpleColors": {
