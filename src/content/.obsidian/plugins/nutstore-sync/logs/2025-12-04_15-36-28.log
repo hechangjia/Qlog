@@ -1,0 +1,501 @@
+{"date":"2025-12-04T07:37:23.301Z","args":[{"status":404,"headers":{"cache-control":"no-cache","content-length":"231","content-type":"text/xml; charset=UTF-8","date":"Thu, 04 Dec 2025 07:37:23 GMT","pragma":"no-cache","server":"nginx"},"arrayBuffer":{},"json":"Unexpected token '<', \"<?xml vers\"... is not valid JSON","text":"<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?><d:error xmlns:d=\"DAV:\" xmlns:s=\"http://ns.jianguoyun.com\"><s:exception>ObjectNotFound</s:exception><s:message>The resource of this location does not exist</s:message></d:error>"}],"type":"error","level":0,"tag":""}
+
+{"date":"2025-12-04T07:37:23.522Z","args":[{"status":404,"headers":{"cache-control":"no-cache","content-length":"231","content-type":"text/xml; charset=UTF-8","date":"Thu, 04 Dec 2025 07:37:23 GMT","pragma":"no-cache","server":"nginx"},"arrayBuffer":{},"json":"Unexpected token '<', \"<?xml vers\"... is not valid JSON","text":"<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?><d:error xmlns:d=\"DAV:\" xmlns:s=\"http://ns.jianguoyun.com\"><s:exception>ObjectNotFound</s:exception><s:message>The resource of this location does not exist</s:message></d:error>"}],"type":"error","level":0,"tag":""}
+
+{"date":"2025-12-04T07:37:23.958Z","args":["local Stats",[{"path":"bases","isDir":true},{"path":"docs","isDir":true},{"path":"pages","isDir":true},{"path":"posts","isDir":true},{"path":"projects","isDir":true},{"path":"special","isDir":true},{"path":"bases/Home.base","size":5790,"isDir":false},{"path":"bases/home.base.old","size":2668,"isDir":false},{"path":"docs/api.md","size":15733,"isDir":false},{"path":"docs/configuration.md","size":24224,"isDir":false},{"path":"docs/installing-obsidian.md","size":1349,"isDir":false},{"path":"docs/attachments","isDir":true},{"path":"docs/sourcetree-and-git-setup","isDir":true},{"path":"pages/about.md","size":2057,"isDir":false},{"path":"pages/contact.md","size":1143,"isDir":false},{"path":"pages/thank-you.md","size":171,"isDir":false},{"path":"pages/privacy-policy.md","size":16927,"isDir":false},{"path":"pages/attachments","isDir":true},{"path":"posts/getting-started.md","size":4173,"isDir":false},{"path":"posts/obsidian-embeds-demo.md","size":10037,"isDir":false},{"path":"posts/obsidian-vault-guide.md","size":16106,"isDir":false},{"path":"posts/zootopia.md","size":1424,"isDir":false},{"path":"posts/attachments","isDir":true},{"path":"posts/formatting-reference","isDir":true},{"path":"posts/sample-folder-based-post","isDir":true},{"path":"projects/astro-composer.md","size":2890,"isDir":false},{"path":"projects/attachments","isDir":true},{"path":"projects/obsidian-astro-suite","isDir":true},{"path":"special/404.md","size":129,"isDir":false},{"path":"special/posts.md","size":130,"isDir":false},{"path":"special/projects.md","size":82,"isDir":false},{"path":"special/home.md","size":69,"isDir":false},{"path":"special/docs.md","size":242,"isDir":false},{"path":"docs/attachments/astro-modular-configuration.png","size":848771,"isDir":false},{"path":"docs/attachments/obsidian-cover.png","size":67715,"isDir":false},{"path":"docs/sourcetree-and-git-setup/index.md","size":7079,"isDir":false},{"path":"docs/sourcetree-and-git-setup/sourcetree.png","size":16215,"isDir":false},{"path":"pages/attachments/water.png","size":79733,"isDir":false},{"path":"posts/attachments/astro-composer-suite-for-obsidian.png","size":140705,"isDir":false},{"path":"posts/attachments/galaxy.png","size":251551,"isDir":false},{"path":"posts/attachments/mountains-clouds.png","size":104143,"isDir":false},{"path":"posts/attachments/document.pdf","size":16136,"isDir":false},{"path":"posts/attachments/mountains.png","size":43360,"isDir":false},{"path":"posts/attachments/sunset.png","size":79468,"isDir":false},{"path":"posts/attachments/sound.wav","size":1599988,"isDir":false},{"path":"posts/attachments/video.mp4","size":86584,"isDir":false},{"path":"posts/attachments/zootopia.mp4","size":27277261,"isDir":false},{"path":"posts/attachments/zootopia","isDir":true},{"path":"posts/formatting-reference/formatting-reference-3.jpg","size":177173,"isDir":false},{"path":"posts/formatting-reference/formatting-reference-1.jpg","size":80852,"isDir":false},{"path":"posts/formatting-reference/formatting-reference-2.jpg","size":99202,"isDir":false},{"path":"posts/formatting-reference/formatting-reference-4.jpg","size":140663,"isDir":false},{"path":"posts/formatting-reference/formatting-reference-5.jpg","size":186308,"isDir":false},{"path":"posts/formatting-reference/formatting-reference-6.jpg","size":78845,"isDir":false},{"path":"posts/formatting-reference/formatting-reference.jpg","size":38805,"isDir":false},{"path":"posts/formatting-reference/index.md","size":11088,"isDir":false},{"path":"posts/formatting-reference/formatting-reference-7.jpg","size":86086,"isDir":false},{"path":"posts/sample-folder-based-post/cover.png","size":245823,"isDir":false},{"path":"posts/sample-folder-based-post/forest.png","size":232828,"isDir":false},{"path":"posts/sample-folder-based-post/index.md","size":1016,"isDir":false},{"path":"projects/attachments/rock.png","size":191700,"isDir":false},{"path":"projects/obsidian-astro-suite/glacier.png","size":120440,"isDir":false},{"path":"projects/obsidian-astro-suite/index.md","size":3496,"isDir":false},{"path":"posts/attachments/zootopia/libao.webp","size":175722,"isDir":false},{"path":"posts/attachments/zootopia/gairui.webp","size":22616,"isDir":false},{"path":"posts/attachments/zootopia/stars.png","size":1460278,"isDir":false},{"path":"posts/attachments/zootopia/embrace.png","size":1385253,"isDir":false},{"path":"posts/attachments/zootopia/Zoo.mp4","size":27277261,"isDir":false},{"path":"posts/attachments/zootopia/Zootopia-1.png","size":1324044,"isDir":false},{"path":"posts/attachments/zootopia/xiedajie.jpg","size":241408,"isDir":false},{"path":"posts/attachments/zootopia/Zootopia-2.png","size":1265841,"isDir":false},{"path":"posts/attachments/zootopia/Zootopia-3.jpg","size":779246,"isDir":false},{"path":"posts/attachments/zootopia/Zootopia-cover.png","size":6768149,"isDir":false}]],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:23.958Z","args":["remote Stats",[]],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:23.958Z","args":[{"reason":"local file exists without a remote file","remotePath":"/content/bases/Home.base","localPath":"bases/Home.base","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:23.958Z","args":[{"reason":"local file exists without a remote file","remotePath":"/content/bases/home.base.old","localPath":"bases/home.base.old","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:23.958Z","args":[{"reason":"local file exists without a remote file","remotePath":"/content/docs/api.md","localPath":"docs/api.md","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:23.958Z","args":[{"reason":"local file exists without a remote file","remotePath":"/content/docs/configuration.md","localPath":"docs/configuration.md","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:23.958Z","args":[{"reason":"local file exists without a remote file","remotePath":"/content/docs/installing-obsidian.md","localPath":"docs/installing-obsidian.md","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:23.958Z","args":[{"reason":"local file exists without a remote file","remotePath":"/content/pages/about.md","localPath":"pages/about.md","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:23.958Z","args":[{"reason":"local file exists without a remote file","remotePath":"/content/pages/contact.md","localPath":"pages/contact.md","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:23.958Z","args":[{"reason":"local file exists without a remote file","remotePath":"/content/pages/thank-you.md","localPath":"pages/thank-you.md","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:23.958Z","args":[{"reason":"local file exists without a remote file","remotePath":"/content/pages/privacy-policy.md","localPath":"pages/privacy-policy.md","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:23.958Z","args":[{"reason":"local file exists without a remote file","remotePath":"/content/posts/getting-started.md","localPath":"posts/getting-started.md","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:23.958Z","args":[{"reason":"local file exists without a remote file","remotePath":"/content/posts/obsidian-embeds-demo.md","localPath":"posts/obsidian-embeds-demo.md","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:23.959Z","args":[{"reason":"local file exists without a remote file","remotePath":"/content/posts/obsidian-vault-guide.md","localPath":"posts/obsidian-vault-guide.md","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:23.959Z","args":[{"reason":"local file exists without a remote file","remotePath":"/content/posts/zootopia.md","localPath":"posts/zootopia.md","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:23.959Z","args":[{"reason":"local file exists without a remote file","remotePath":"/content/projects/astro-composer.md","localPath":"projects/astro-composer.md","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:23.959Z","args":[{"reason":"local file exists without a remote file","remotePath":"/content/special/404.md","localPath":"special/404.md","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:23.959Z","args":[{"reason":"local file exists without a remote file","remotePath":"/content/special/posts.md","localPath":"special/posts.md","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:23.959Z","args":[{"reason":"local file exists without a remote file","remotePath":"/content/special/projects.md","localPath":"special/projects.md","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:23.959Z","args":[{"reason":"local file exists without a remote file","remotePath":"/content/special/home.md","localPath":"special/home.md","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:23.959Z","args":[{"reason":"local file exists without a remote file","remotePath":"/content/special/docs.md","localPath":"special/docs.md","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:23.959Z","args":[{"reason":"local file exists without a remote file","remotePath":"/content/docs/attachments/astro-modular-configuration.png","localPath":"docs/attachments/astro-modular-configuration.png","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:23.959Z","args":[{"reason":"local file exists without a remote file","remotePath":"/content/docs/attachments/obsidian-cover.png","localPath":"docs/attachments/obsidian-cover.png","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:23.959Z","args":[{"reason":"local file exists without a remote file","remotePath":"/content/docs/sourcetree-and-git-setup/index.md","localPath":"docs/sourcetree-and-git-setup/index.md","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:23.959Z","args":[{"reason":"local file exists without a remote file","remotePath":"/content/docs/sourcetree-and-git-setup/sourcetree.png","localPath":"docs/sourcetree-and-git-setup/sourcetree.png","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:23.959Z","args":[{"reason":"local file exists without a remote file","remotePath":"/content/pages/attachments/water.png","localPath":"pages/attachments/water.png","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:23.959Z","args":[{"reason":"local file exists without a remote file","remotePath":"/content/posts/attachments/astro-composer-suite-for-obsidian.png","localPath":"posts/attachments/astro-composer-suite-for-obsidian.png","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:23.959Z","args":[{"reason":"local file exists without a remote file","remotePath":"/content/posts/attachments/galaxy.png","localPath":"posts/attachments/galaxy.png","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:23.959Z","args":[{"reason":"local file exists without a remote file","remotePath":"/content/posts/attachments/mountains-clouds.png","localPath":"posts/attachments/mountains-clouds.png","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:23.959Z","args":[{"reason":"local file exists without a remote file","remotePath":"/content/posts/attachments/document.pdf","localPath":"posts/attachments/document.pdf","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:23.959Z","args":[{"reason":"local file exists without a remote file","remotePath":"/content/posts/attachments/mountains.png","localPath":"posts/attachments/mountains.png","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:23.959Z","args":[{"reason":"local file exists without a remote file","remotePath":"/content/posts/attachments/sunset.png","localPath":"posts/attachments/sunset.png","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:23.959Z","args":[{"reason":"local file exists without a remote file","remotePath":"/content/posts/attachments/sound.wav","localPath":"posts/attachments/sound.wav","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:23.959Z","args":[{"reason":"local file exists without a remote file","remotePath":"/content/posts/attachments/video.mp4","localPath":"posts/attachments/video.mp4","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:23.959Z","args":[{"reason":"local file exists without a remote file","remotePath":"/content/posts/attachments/zootopia.mp4","localPath":"posts/attachments/zootopia.mp4","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:23.959Z","args":[{"reason":"local file exists without a remote file","remotePath":"/content/posts/formatting-reference/formatting-reference-3.jpg","localPath":"posts/formatting-reference/formatting-reference-3.jpg","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:23.959Z","args":[{"reason":"local file exists without a remote file","remotePath":"/content/posts/formatting-reference/formatting-reference-1.jpg","localPath":"posts/formatting-reference/formatting-reference-1.jpg","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:23.959Z","args":[{"reason":"local file exists without a remote file","remotePath":"/content/posts/formatting-reference/formatting-reference-2.jpg","localPath":"posts/formatting-reference/formatting-reference-2.jpg","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:23.959Z","args":[{"reason":"local file exists without a remote file","remotePath":"/content/posts/formatting-reference/formatting-reference-4.jpg","localPath":"posts/formatting-reference/formatting-reference-4.jpg","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:23.959Z","args":[{"reason":"local file exists without a remote file","remotePath":"/content/posts/formatting-reference/formatting-reference-5.jpg","localPath":"posts/formatting-reference/formatting-reference-5.jpg","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:23.959Z","args":[{"reason":"local file exists without a remote file","remotePath":"/content/posts/formatting-reference/formatting-reference-6.jpg","localPath":"posts/formatting-reference/formatting-reference-6.jpg","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:23.959Z","args":[{"reason":"local file exists without a remote file","remotePath":"/content/posts/formatting-reference/formatting-reference.jpg","localPath":"posts/formatting-reference/formatting-reference.jpg","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:23.959Z","args":[{"reason":"local file exists without a remote file","remotePath":"/content/posts/formatting-reference/index.md","localPath":"posts/formatting-reference/index.md","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:23.959Z","args":[{"reason":"local file exists without a remote file","remotePath":"/content/posts/formatting-reference/formatting-reference-7.jpg","localPath":"posts/formatting-reference/formatting-reference-7.jpg","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:23.959Z","args":[{"reason":"local file exists without a remote file","remotePath":"/content/posts/sample-folder-based-post/cover.png","localPath":"posts/sample-folder-based-post/cover.png","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:23.959Z","args":[{"reason":"local file exists without a remote file","remotePath":"/content/posts/sample-folder-based-post/forest.png","localPath":"posts/sample-folder-based-post/forest.png","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:23.959Z","args":[{"reason":"local file exists without a remote file","remotePath":"/content/posts/sample-folder-based-post/index.md","localPath":"posts/sample-folder-based-post/index.md","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:23.959Z","args":[{"reason":"local file exists without a remote file","remotePath":"/content/projects/attachments/rock.png","localPath":"projects/attachments/rock.png","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:23.959Z","args":[{"reason":"local file exists without a remote file","remotePath":"/content/projects/obsidian-astro-suite/glacier.png","localPath":"projects/obsidian-astro-suite/glacier.png","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:23.959Z","args":[{"reason":"local file exists without a remote file","remotePath":"/content/projects/obsidian-astro-suite/index.md","localPath":"projects/obsidian-astro-suite/index.md","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:23.959Z","args":[{"reason":"local file exists without a remote file","remotePath":"/content/posts/attachments/zootopia/libao.webp","localPath":"posts/attachments/zootopia/libao.webp","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:23.959Z","args":[{"reason":"local file exists without a remote file","remotePath":"/content/posts/attachments/zootopia/gairui.webp","localPath":"posts/attachments/zootopia/gairui.webp","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:23.959Z","args":[{"reason":"local file exists without a remote file","remotePath":"/content/posts/attachments/zootopia/stars.png","localPath":"posts/attachments/zootopia/stars.png","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:23.959Z","args":[{"reason":"local file exists without a remote file","remotePath":"/content/posts/attachments/zootopia/embrace.png","localPath":"posts/attachments/zootopia/embrace.png","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:23.959Z","args":[{"reason":"local file exists without a remote file","remotePath":"/content/posts/attachments/zootopia/Zoo.mp4","localPath":"posts/attachments/zootopia/Zoo.mp4","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:23.959Z","args":[{"reason":"local file exists without a remote file","remotePath":"/content/posts/attachments/zootopia/Zootopia-1.png","localPath":"posts/attachments/zootopia/Zootopia-1.png","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:23.959Z","args":[{"reason":"local file exists without a remote file","remotePath":"/content/posts/attachments/zootopia/xiedajie.jpg","localPath":"posts/attachments/zootopia/xiedajie.jpg","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:23.959Z","args":[{"reason":"local file exists without a remote file","remotePath":"/content/posts/attachments/zootopia/Zootopia-2.png","localPath":"posts/attachments/zootopia/Zootopia-2.png","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:23.959Z","args":[{"reason":"local file exists without a remote file","remotePath":"/content/posts/attachments/zootopia/Zootopia-3.jpg","localPath":"posts/attachments/zootopia/Zootopia-3.jpg","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:23.959Z","args":[{"reason":"local file exists without a remote file","remotePath":"/content/posts/attachments/zootopia/Zootopia-cover.png","localPath":"posts/attachments/zootopia/Zootopia-cover.png","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:23.959Z","args":[{"reason":"local folder does not exist remotely","remotePath":"/content/bases","localPath":"bases","conditions":{"remoteExists":false,"recordExists":false}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:23.959Z","args":[{"reason":"local folder does not exist remotely","remotePath":"/content/docs","localPath":"docs","conditions":{"remoteExists":false,"recordExists":false}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:23.959Z","args":[{"reason":"local folder does not exist remotely","remotePath":"/content/pages","localPath":"pages","conditions":{"remoteExists":false,"recordExists":false}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:23.959Z","args":[{"reason":"local folder does not exist remotely","remotePath":"/content/posts","localPath":"posts","conditions":{"remoteExists":false,"recordExists":false}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:23.959Z","args":[{"reason":"local folder does not exist remotely","remotePath":"/content/projects","localPath":"projects","conditions":{"remoteExists":false,"recordExists":false}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:23.959Z","args":[{"reason":"local folder does not exist remotely","remotePath":"/content/special","localPath":"special","conditions":{"remoteExists":false,"recordExists":false}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:23.959Z","args":[{"reason":"local folder does not exist remotely","remotePath":"/content/docs/attachments","localPath":"docs/attachments","conditions":{"remoteExists":false,"recordExists":false}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:23.959Z","args":[{"reason":"local folder does not exist remotely","remotePath":"/content/docs/sourcetree-and-git-setup","localPath":"docs/sourcetree-and-git-setup","conditions":{"remoteExists":false,"recordExists":false}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:23.959Z","args":[{"reason":"local folder does not exist remotely","remotePath":"/content/pages/attachments","localPath":"pages/attachments","conditions":{"remoteExists":false,"recordExists":false}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:23.959Z","args":[{"reason":"local folder does not exist remotely","remotePath":"/content/posts/attachments","localPath":"posts/attachments","conditions":{"remoteExists":false,"recordExists":false}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:23.959Z","args":[{"reason":"local folder does not exist remotely","remotePath":"/content/posts/formatting-reference","localPath":"posts/formatting-reference","conditions":{"remoteExists":false,"recordExists":false}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:23.959Z","args":[{"reason":"local folder does not exist remotely","remotePath":"/content/posts/sample-folder-based-post","localPath":"posts/sample-folder-based-post","conditions":{"remoteExists":false,"recordExists":false}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:23.959Z","args":[{"reason":"local folder does not exist remotely","remotePath":"/content/projects/attachments","localPath":"projects/attachments","conditions":{"remoteExists":false,"recordExists":false}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:23.959Z","args":[{"reason":"local folder does not exist remotely","remotePath":"/content/projects/obsidian-astro-suite","localPath":"projects/obsidian-astro-suite","conditions":{"remoteExists":false,"recordExists":false}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:23.959Z","args":[{"reason":"local folder does not exist remotely","remotePath":"/content/posts/attachments/zootopia","localPath":"posts/attachments/zootopia","conditions":{"remoteExists":false,"recordExists":false}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:33.079Z","args":["Starting to execute sync tasks",{"totalTasks":73}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:33.079Z","args":["Executing task [1/73] bases",{"taskName":"创建远程目录","taskPath":"bases"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:33.192Z","args":[{"status":404,"headers":{"cache-control":"no-cache","content-length":"218","content-type":"text/xml; charset=UTF-8","date":"Thu, 04 Dec 2025 07:37:33 GMT","pragma":"no-cache","server":"nginx"},"arrayBuffer":{},"json":"Unexpected token '<', \"<?xml vers\"... is not valid JSON","text":"<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?><d:error xmlns:d=\"DAV:\" xmlns:s=\"http://ns.jianguoyun.com\"><s:exception>ObjectNotFound</s:exception><s:message>the object /bases doesn't exist</s:message></d:error>"}],"type":"error","level":0,"tag":""}
+
+{"date":"2025-12-04T07:37:33.209Z","args":["Task completed [1/73] bases",{"taskName":"创建远程目录","taskPath":"bases","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:33.210Z","args":["Executing task [2/73] docs",{"taskName":"创建远程目录","taskPath":"docs"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:33.433Z","args":[{"status":404,"headers":{"cache-control":"no-cache","content-length":"217","content-type":"text/xml; charset=UTF-8","date":"Thu, 04 Dec 2025 07:37:33 GMT","pragma":"no-cache","server":"nginx"},"arrayBuffer":{},"json":"Unexpected token '<', \"<?xml vers\"... is not valid JSON","text":"<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?><d:error xmlns:d=\"DAV:\" xmlns:s=\"http://ns.jianguoyun.com\"><s:exception>ObjectNotFound</s:exception><s:message>the object /docs doesn't exist</s:message></d:error>"}],"type":"error","level":0,"tag":""}
+
+{"date":"2025-12-04T07:37:33.450Z","args":["Task completed [2/73] docs",{"taskName":"创建远程目录","taskPath":"docs","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:33.451Z","args":["Executing task [3/73] pages",{"taskName":"创建远程目录","taskPath":"pages"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:33.633Z","args":[{"status":404,"headers":{"cache-control":"no-cache","content-length":"218","content-type":"text/xml; charset=UTF-8","date":"Thu, 04 Dec 2025 07:37:33 GMT","pragma":"no-cache","server":"nginx"},"arrayBuffer":{},"json":"Unexpected token '<', \"<?xml vers\"... is not valid JSON","text":"<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?><d:error xmlns:d=\"DAV:\" xmlns:s=\"http://ns.jianguoyun.com\"><s:exception>ObjectNotFound</s:exception><s:message>the object /pages doesn't exist</s:message></d:error>"}],"type":"error","level":0,"tag":""}
+
+{"date":"2025-12-04T07:37:33.649Z","args":["Task completed [3/73] pages",{"taskName":"创建远程目录","taskPath":"pages","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:33.649Z","args":["Executing task [4/73] posts",{"taskName":"创建远程目录","taskPath":"posts"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:33.834Z","args":[{"status":404,"headers":{"cache-control":"no-cache","content-length":"218","content-type":"text/xml; charset=UTF-8","date":"Thu, 04 Dec 2025 07:37:33 GMT","pragma":"no-cache","server":"nginx"},"arrayBuffer":{},"json":"Unexpected token '<', \"<?xml vers\"... is not valid JSON","text":"<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?><d:error xmlns:d=\"DAV:\" xmlns:s=\"http://ns.jianguoyun.com\"><s:exception>ObjectNotFound</s:exception><s:message>the object /posts doesn't exist</s:message></d:error>"}],"type":"error","level":0,"tag":""}
+
+{"date":"2025-12-04T07:37:33.851Z","args":["Task completed [4/73] posts",{"taskName":"创建远程目录","taskPath":"posts","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:33.852Z","args":["Executing task [5/73] projects",{"taskName":"创建远程目录","taskPath":"projects"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:34.032Z","args":[{"status":404,"headers":{"cache-control":"no-cache","content-length":"221","content-type":"text/xml; charset=UTF-8","date":"Thu, 04 Dec 2025 07:37:33 GMT","pragma":"no-cache","server":"nginx"},"arrayBuffer":{},"json":"Unexpected token '<', \"<?xml vers\"... is not valid JSON","text":"<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?><d:error xmlns:d=\"DAV:\" xmlns:s=\"http://ns.jianguoyun.com\"><s:exception>ObjectNotFound</s:exception><s:message>the object /projects doesn't exist</s:message></d:error>"}],"type":"error","level":0,"tag":""}
+
+{"date":"2025-12-04T07:37:34.049Z","args":["Task completed [5/73] projects",{"taskName":"创建远程目录","taskPath":"projects","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:34.049Z","args":["Executing task [6/73] special",{"taskName":"创建远程目录","taskPath":"special"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:34.228Z","args":[{"status":404,"headers":{"cache-control":"no-cache","content-length":"220","content-type":"text/xml; charset=UTF-8","date":"Thu, 04 Dec 2025 07:37:34 GMT","pragma":"no-cache","server":"nginx"},"arrayBuffer":{},"json":"Unexpected token '<', \"<?xml vers\"... is not valid JSON","text":"<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?><d:error xmlns:d=\"DAV:\" xmlns:s=\"http://ns.jianguoyun.com\"><s:exception>ObjectNotFound</s:exception><s:message>the object /special doesn't exist</s:message></d:error>"}],"type":"error","level":0,"tag":""}
+
+{"date":"2025-12-04T07:37:34.242Z","args":["Task completed [6/73] special",{"taskName":"创建远程目录","taskPath":"special","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:34.242Z","args":["Executing task [7/73] docs/attachments",{"taskName":"创建远程目录","taskPath":"docs/attachments"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:34.519Z","args":[{"status":404,"headers":{"cache-control":"no-cache","content-length":"229","content-type":"text/xml; charset=UTF-8","date":"Thu, 04 Dec 2025 07:37:34 GMT","pragma":"no-cache","server":"nginx"},"arrayBuffer":{},"json":"Unexpected token '<', \"<?xml vers\"... is not valid JSON","text":"<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?><d:error xmlns:d=\"DAV:\" xmlns:s=\"http://ns.jianguoyun.com\"><s:exception>ObjectNotFound</s:exception><s:message>the object /docs/attachments doesn't exist</s:message></d:error>"}],"type":"error","level":0,"tag":""}
+
+{"date":"2025-12-04T07:37:34.536Z","args":["Task completed [7/73] docs/attachments",{"taskName":"创建远程目录","taskPath":"docs/attachments","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:34.536Z","args":["Executing task [8/73] docs/sourcetree-and-git-setup",{"taskName":"创建远程目录","taskPath":"docs/sourcetree-and-git-setup"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:34.763Z","args":[{"status":404,"headers":{"cache-control":"no-cache","content-length":"242","content-type":"text/xml; charset=UTF-8","date":"Thu, 04 Dec 2025 07:37:34 GMT","pragma":"no-cache","server":"nginx"},"arrayBuffer":{},"json":"Unexpected token '<', \"<?xml vers\"... is not valid JSON","text":"<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?><d:error xmlns:d=\"DAV:\" xmlns:s=\"http://ns.jianguoyun.com\"><s:exception>ObjectNotFound</s:exception><s:message>the object /docs/sourcetree-and-git-setup doesn't exist</s:message></d:error>"}],"type":"error","level":0,"tag":""}
+
+{"date":"2025-12-04T07:37:34.779Z","args":["Task completed [8/73] docs/sourcetree-and-git-setup",{"taskName":"创建远程目录","taskPath":"docs/sourcetree-and-git-setup","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:34.780Z","args":["Executing task [9/73] pages/attachments",{"taskName":"创建远程目录","taskPath":"pages/attachments"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:34.993Z","args":[{"status":404,"headers":{"cache-control":"no-cache","content-length":"230","content-type":"text/xml; charset=UTF-8","date":"Thu, 04 Dec 2025 07:37:34 GMT","pragma":"no-cache","server":"nginx"},"arrayBuffer":{},"json":"Unexpected token '<', \"<?xml vers\"... is not valid JSON","text":"<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?><d:error xmlns:d=\"DAV:\" xmlns:s=\"http://ns.jianguoyun.com\"><s:exception>ObjectNotFound</s:exception><s:message>the object /pages/attachments doesn't exist</s:message></d:error>"}],"type":"error","level":0,"tag":""}
+
+{"date":"2025-12-04T07:37:35.007Z","args":["Task completed [9/73] pages/attachments",{"taskName":"创建远程目录","taskPath":"pages/attachments","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:35.008Z","args":["Executing task [10/73] posts/attachments",{"taskName":"创建远程目录","taskPath":"posts/attachments"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:35.219Z","args":[{"status":404,"headers":{"cache-control":"no-cache","content-length":"230","content-type":"text/xml; charset=UTF-8","date":"Thu, 04 Dec 2025 07:37:35 GMT","pragma":"no-cache","server":"nginx"},"arrayBuffer":{},"json":"Unexpected token '<', \"<?xml vers\"... is not valid JSON","text":"<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?><d:error xmlns:d=\"DAV:\" xmlns:s=\"http://ns.jianguoyun.com\"><s:exception>ObjectNotFound</s:exception><s:message>the object /posts/attachments doesn't exist</s:message></d:error>"}],"type":"error","level":0,"tag":""}
+
+{"date":"2025-12-04T07:37:35.233Z","args":["Task completed [10/73] posts/attachments",{"taskName":"创建远程目录","taskPath":"posts/attachments","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:35.234Z","args":["Executing task [11/73] posts/formatting-reference",{"taskName":"创建远程目录","taskPath":"posts/formatting-reference"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:35.435Z","args":[{"status":404,"headers":{"cache-control":"no-cache","content-length":"239","content-type":"text/xml; charset=UTF-8","date":"Thu, 04 Dec 2025 07:37:35 GMT","pragma":"no-cache","server":"nginx"},"arrayBuffer":{},"json":"Unexpected token '<', \"<?xml vers\"... is not valid JSON","text":"<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?><d:error xmlns:d=\"DAV:\" xmlns:s=\"http://ns.jianguoyun.com\"><s:exception>ObjectNotFound</s:exception><s:message>the object /posts/formatting-reference doesn't exist</s:message></d:error>"}],"type":"error","level":0,"tag":""}
+
+{"date":"2025-12-04T07:37:35.455Z","args":["Task completed [11/73] posts/formatting-reference",{"taskName":"创建远程目录","taskPath":"posts/formatting-reference","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:35.456Z","args":["Executing task [12/73] posts/sample-folder-based-post",{"taskName":"创建远程目录","taskPath":"posts/sample-folder-based-post"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:35.681Z","args":[{"status":404,"headers":{"cache-control":"no-cache","content-length":"243","content-type":"text/xml; charset=UTF-8","date":"Thu, 04 Dec 2025 07:37:35 GMT","pragma":"no-cache","server":"nginx"},"arrayBuffer":{},"json":"Unexpected token '<', \"<?xml vers\"... is not valid JSON","text":"<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?><d:error xmlns:d=\"DAV:\" xmlns:s=\"http://ns.jianguoyun.com\"><s:exception>ObjectNotFound</s:exception><s:message>the object /posts/sample-folder-based-post doesn't exist</s:message></d:error>"}],"type":"error","level":0,"tag":""}
+
+{"date":"2025-12-04T07:37:35.696Z","args":["Task completed [12/73] posts/sample-folder-based-post",{"taskName":"创建远程目录","taskPath":"posts/sample-folder-based-post","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:35.697Z","args":["Executing task [13/73] projects/attachments",{"taskName":"创建远程目录","taskPath":"projects/attachments"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:35.923Z","args":[{"status":404,"headers":{"cache-control":"no-cache","content-length":"233","content-type":"text/xml; charset=UTF-8","date":"Thu, 04 Dec 2025 07:37:35 GMT","pragma":"no-cache","server":"nginx"},"arrayBuffer":{},"json":"Unexpected token '<', \"<?xml vers\"... is not valid JSON","text":"<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?><d:error xmlns:d=\"DAV:\" xmlns:s=\"http://ns.jianguoyun.com\"><s:exception>ObjectNotFound</s:exception><s:message>the object /projects/attachments doesn't exist</s:message></d:error>"}],"type":"error","level":0,"tag":""}
+
+{"date":"2025-12-04T07:37:35.937Z","args":["Task completed [13/73] projects/attachments",{"taskName":"创建远程目录","taskPath":"projects/attachments","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:35.938Z","args":["Executing task [14/73] projects/obsidian-astro-suite",{"taskName":"创建远程目录","taskPath":"projects/obsidian-astro-suite"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:36.173Z","args":[{"status":404,"headers":{"cache-control":"no-cache","content-length":"242","content-type":"text/xml; charset=UTF-8","date":"Thu, 04 Dec 2025 07:37:36 GMT","pragma":"no-cache","server":"nginx"},"arrayBuffer":{},"json":"Unexpected token '<', \"<?xml vers\"... is not valid JSON","text":"<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?><d:error xmlns:d=\"DAV:\" xmlns:s=\"http://ns.jianguoyun.com\"><s:exception>ObjectNotFound</s:exception><s:message>the object /projects/obsidian-astro-suite doesn't exist</s:message></d:error>"}],"type":"error","level":0,"tag":""}
+
+{"date":"2025-12-04T07:37:36.190Z","args":["Task completed [14/73] projects/obsidian-astro-suite",{"taskName":"创建远程目录","taskPath":"projects/obsidian-astro-suite","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:36.191Z","args":["Executing task [15/73] posts/attachments/zootopia",{"taskName":"创建远程目录","taskPath":"posts/attachments/zootopia"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:36.495Z","args":[{"status":404,"headers":{"cache-control":"no-cache","content-length":"239","content-type":"text/xml; charset=UTF-8","date":"Thu, 04 Dec 2025 07:37:36 GMT","pragma":"no-cache","server":"nginx"},"arrayBuffer":{},"json":"Unexpected token '<', \"<?xml vers\"... is not valid JSON","text":"<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?><d:error xmlns:d=\"DAV:\" xmlns:s=\"http://ns.jianguoyun.com\"><s:exception>ObjectNotFound</s:exception><s:message>the object /posts/attachments/zootopia doesn't exist</s:message></d:error>"}],"type":"error","level":0,"tag":""}
+
+{"date":"2025-12-04T07:37:36.509Z","args":["Task completed [15/73] posts/attachments/zootopia",{"taskName":"创建远程目录","taskPath":"posts/attachments/zootopia","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:36.510Z","args":["Executing task [16/73] bases/Home.base",{"taskName":"上传","taskPath":"bases/Home.base"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:36.612Z","args":["Task completed [16/73] bases/Home.base",{"taskName":"上传","taskPath":"bases/Home.base","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:36.612Z","args":["Executing task [17/73] bases/home.base.old",{"taskName":"上传","taskPath":"bases/home.base.old"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:36.769Z","args":["Task completed [17/73] bases/home.base.old",{"taskName":"上传","taskPath":"bases/home.base.old","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:36.769Z","args":["Executing task [18/73] docs/api.md",{"taskName":"上传","taskPath":"docs/api.md"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:37.017Z","args":["Task completed [18/73] docs/api.md",{"taskName":"上传","taskPath":"docs/api.md","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:37.019Z","args":["Executing task [19/73] docs/configuration.md",{"taskName":"上传","taskPath":"docs/configuration.md"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:37.195Z","args":["Task completed [19/73] docs/configuration.md",{"taskName":"上传","taskPath":"docs/configuration.md","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:37.195Z","args":["Executing task [20/73] docs/installing-obsidian.md",{"taskName":"上传","taskPath":"docs/installing-obsidian.md"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:37.452Z","args":["Task completed [20/73] docs/installing-obsidian.md",{"taskName":"上传","taskPath":"docs/installing-obsidian.md","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:37.454Z","args":["Executing task [21/73] pages/about.md",{"taskName":"上传","taskPath":"pages/about.md"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:37.562Z","args":["Task completed [21/73] pages/about.md",{"taskName":"上传","taskPath":"pages/about.md","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:37.562Z","args":["Executing task [22/73] pages/contact.md",{"taskName":"上传","taskPath":"pages/contact.md"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:37.827Z","args":["Task completed [22/73] pages/contact.md",{"taskName":"上传","taskPath":"pages/contact.md","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:37.829Z","args":["Executing task [23/73] pages/thank-you.md",{"taskName":"上传","taskPath":"pages/thank-you.md"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:37.960Z","args":["Task completed [23/73] pages/thank-you.md",{"taskName":"上传","taskPath":"pages/thank-you.md","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:37.960Z","args":["Executing task [24/73] pages/privacy-policy.md",{"taskName":"上传","taskPath":"pages/privacy-policy.md"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:38.170Z","args":["Task completed [24/73] pages/privacy-policy.md",{"taskName":"上传","taskPath":"pages/privacy-policy.md","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:38.172Z","args":["Executing task [25/73] posts/getting-started.md",{"taskName":"上传","taskPath":"posts/getting-started.md"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:38.373Z","args":["Task completed [25/73] posts/getting-started.md",{"taskName":"上传","taskPath":"posts/getting-started.md","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:38.374Z","args":["Executing task [26/73] posts/obsidian-embeds-demo.md",{"taskName":"上传","taskPath":"posts/obsidian-embeds-demo.md"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:38.556Z","args":["Task completed [26/73] posts/obsidian-embeds-demo.md",{"taskName":"上传","taskPath":"posts/obsidian-embeds-demo.md","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:38.556Z","args":["Executing task [27/73] posts/obsidian-vault-guide.md",{"taskName":"上传","taskPath":"posts/obsidian-vault-guide.md"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:38.756Z","args":["Task completed [27/73] posts/obsidian-vault-guide.md",{"taskName":"上传","taskPath":"posts/obsidian-vault-guide.md","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:38.758Z","args":["Executing task [28/73] posts/zootopia.md",{"taskName":"上传","taskPath":"posts/zootopia.md"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:38.965Z","args":["Task completed [28/73] posts/zootopia.md",{"taskName":"上传","taskPath":"posts/zootopia.md","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:38.967Z","args":["Executing task [29/73] projects/astro-composer.md",{"taskName":"上传","taskPath":"projects/astro-composer.md"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:39.155Z","args":["Task completed [29/73] projects/astro-composer.md",{"taskName":"上传","taskPath":"projects/astro-composer.md","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:39.155Z","args":["Executing task [30/73] special/404.md",{"taskName":"上传","taskPath":"special/404.md"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:39.402Z","args":["Task completed [30/73] special/404.md",{"taskName":"上传","taskPath":"special/404.md","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:39.404Z","args":["Executing task [31/73] special/posts.md",{"taskName":"上传","taskPath":"special/posts.md"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:39.609Z","args":["Task completed [31/73] special/posts.md",{"taskName":"上传","taskPath":"special/posts.md","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:39.610Z","args":["Executing task [32/73] special/projects.md",{"taskName":"上传","taskPath":"special/projects.md"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:39.805Z","args":["Task completed [32/73] special/projects.md",{"taskName":"上传","taskPath":"special/projects.md","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:39.805Z","args":["Executing task [33/73] special/home.md",{"taskName":"上传","taskPath":"special/home.md"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:40.021Z","args":["Task completed [33/73] special/home.md",{"taskName":"上传","taskPath":"special/home.md","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:40.023Z","args":["Executing task [34/73] special/docs.md",{"taskName":"上传","taskPath":"special/docs.md"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:40.200Z","args":["Task completed [34/73] special/docs.md",{"taskName":"上传","taskPath":"special/docs.md","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:40.201Z","args":["Executing task [35/73] docs/attachments/astro-modular-configuration.png",{"taskName":"上传","taskPath":"docs/attachments/astro-modular-configuration.png"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:40.800Z","args":["Task completed [35/73] docs/attachments/astro-modular-configuration.png",{"taskName":"上传","taskPath":"docs/attachments/astro-modular-configuration.png","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:40.802Z","args":["Executing task [36/73] docs/attachments/obsidian-cover.png",{"taskName":"上传","taskPath":"docs/attachments/obsidian-cover.png"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:41.008Z","args":["Task completed [36/73] docs/attachments/obsidian-cover.png",{"taskName":"上传","taskPath":"docs/attachments/obsidian-cover.png","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:41.010Z","args":["Executing task [37/73] docs/sourcetree-and-git-setup/index.md",{"taskName":"上传","taskPath":"docs/sourcetree-and-git-setup/index.md"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:41.068Z","args":["Task completed [37/73] docs/sourcetree-and-git-setup/index.md",{"taskName":"上传","taskPath":"docs/sourcetree-and-git-setup/index.md","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:41.068Z","args":["Executing task [38/73] docs/sourcetree-and-git-setup/sourcetree.png",{"taskName":"上传","taskPath":"docs/sourcetree-and-git-setup/sourcetree.png"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:41.424Z","args":["Task completed [38/73] docs/sourcetree-and-git-setup/sourcetree.png",{"taskName":"上传","taskPath":"docs/sourcetree-and-git-setup/sourcetree.png","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:41.426Z","args":["Executing task [39/73] pages/attachments/water.png",{"taskName":"上传","taskPath":"pages/attachments/water.png"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:41.594Z","args":["Task completed [39/73] pages/attachments/water.png",{"taskName":"上传","taskPath":"pages/attachments/water.png","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:41.594Z","args":["Executing task [40/73] posts/attachments/astro-composer-suite-for-obsidian.png",{"taskName":"上传","taskPath":"posts/attachments/astro-composer-suite-for-obsidian.png"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:41.839Z","args":["Task completed [40/73] posts/attachments/astro-composer-suite-for-obsidian.png",{"taskName":"上传","taskPath":"posts/attachments/astro-composer-suite-for-obsidian.png","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:41.841Z","args":["Executing task [41/73] posts/attachments/galaxy.png",{"taskName":"上传","taskPath":"posts/attachments/galaxy.png"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:42.071Z","args":["Task completed [41/73] posts/attachments/galaxy.png",{"taskName":"上传","taskPath":"posts/attachments/galaxy.png","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:42.073Z","args":["Executing task [42/73] posts/attachments/mountains-clouds.png",{"taskName":"上传","taskPath":"posts/attachments/mountains-clouds.png"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:42.263Z","args":["Task completed [42/73] posts/attachments/mountains-clouds.png",{"taskName":"上传","taskPath":"posts/attachments/mountains-clouds.png","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:42.263Z","args":["Executing task [43/73] posts/attachments/document.pdf",{"taskName":"上传","taskPath":"posts/attachments/document.pdf"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:42.348Z","args":["Task completed [43/73] posts/attachments/document.pdf",{"taskName":"上传","taskPath":"posts/attachments/document.pdf","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:42.348Z","args":["Executing task [44/73] posts/attachments/mountains.png",{"taskName":"上传","taskPath":"posts/attachments/mountains.png"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:42.631Z","args":["Task completed [44/73] posts/attachments/mountains.png",{"taskName":"上传","taskPath":"posts/attachments/mountains.png","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:42.633Z","args":["Executing task [45/73] posts/attachments/sunset.png",{"taskName":"上传","taskPath":"posts/attachments/sunset.png"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:43.184Z","args":["Task completed [45/73] posts/attachments/sunset.png",{"taskName":"上传","taskPath":"posts/attachments/sunset.png","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:43.186Z","args":["Executing task [46/73] posts/attachments/sound.wav",{"taskName":"上传","taskPath":"posts/attachments/sound.wav"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:43.777Z","args":["Task completed [46/73] posts/attachments/sound.wav",{"taskName":"上传","taskPath":"posts/attachments/sound.wav","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:43.779Z","args":["Executing task [47/73] posts/attachments/video.mp4",{"taskName":"上传","taskPath":"posts/attachments/video.mp4"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:43.886Z","args":["Task completed [47/73] posts/attachments/video.mp4",{"taskName":"上传","taskPath":"posts/attachments/video.mp4","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:43.886Z","args":["Executing task [48/73] posts/attachments/zootopia.mp4",{"taskName":"上传","taskPath":"posts/attachments/zootopia.mp4"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:51.612Z","args":["Task completed [48/73] posts/attachments/zootopia.mp4",{"taskName":"上传","taskPath":"posts/attachments/zootopia.mp4","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:51.615Z","args":["Executing task [49/73] posts/formatting-reference/formatting-reference-3.jpg",{"taskName":"上传","taskPath":"posts/formatting-reference/formatting-reference-3.jpg"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:51.777Z","args":["Task completed [49/73] posts/formatting-reference/formatting-reference-3.jpg",{"taskName":"上传","taskPath":"posts/formatting-reference/formatting-reference-3.jpg","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:51.777Z","args":["Executing task [50/73] posts/formatting-reference/formatting-reference-1.jpg",{"taskName":"上传","taskPath":"posts/formatting-reference/formatting-reference-1.jpg"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:51.959Z","args":["Task completed [50/73] posts/formatting-reference/formatting-reference-1.jpg",{"taskName":"上传","taskPath":"posts/formatting-reference/formatting-reference-1.jpg","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:51.959Z","args":["Executing task [51/73] posts/formatting-reference/formatting-reference-2.jpg",{"taskName":"上传","taskPath":"posts/formatting-reference/formatting-reference-2.jpg"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:52.174Z","args":["Task completed [51/73] posts/formatting-reference/formatting-reference-2.jpg",{"taskName":"上传","taskPath":"posts/formatting-reference/formatting-reference-2.jpg","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:52.177Z","args":["Executing task [52/73] posts/formatting-reference/formatting-reference-4.jpg",{"taskName":"上传","taskPath":"posts/formatting-reference/formatting-reference-4.jpg"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:52.348Z","args":["Task completed [52/73] posts/formatting-reference/formatting-reference-4.jpg",{"taskName":"上传","taskPath":"posts/formatting-reference/formatting-reference-4.jpg","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:52.348Z","args":["Executing task [53/73] posts/formatting-reference/formatting-reference-5.jpg",{"taskName":"上传","taskPath":"posts/formatting-reference/formatting-reference-5.jpg"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:52.594Z","args":["Task completed [53/73] posts/formatting-reference/formatting-reference-5.jpg",{"taskName":"上传","taskPath":"posts/formatting-reference/formatting-reference-5.jpg","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:52.598Z","args":["Executing task [54/73] posts/formatting-reference/formatting-reference-6.jpg",{"taskName":"上传","taskPath":"posts/formatting-reference/formatting-reference-6.jpg"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:52.796Z","args":["Task completed [54/73] posts/formatting-reference/formatting-reference-6.jpg",{"taskName":"上传","taskPath":"posts/formatting-reference/formatting-reference-6.jpg","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:52.799Z","args":["Executing task [55/73] posts/formatting-reference/formatting-reference.jpg",{"taskName":"上传","taskPath":"posts/formatting-reference/formatting-reference.jpg"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:52.984Z","args":["Task completed [55/73] posts/formatting-reference/formatting-reference.jpg",{"taskName":"上传","taskPath":"posts/formatting-reference/formatting-reference.jpg","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:52.984Z","args":["Executing task [56/73] posts/formatting-reference/index.md",{"taskName":"上传","taskPath":"posts/formatting-reference/index.md"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:53.112Z","args":["Task completed [56/73] posts/formatting-reference/index.md",{"taskName":"上传","taskPath":"posts/formatting-reference/index.md","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:53.113Z","args":["Executing task [57/73] posts/formatting-reference/formatting-reference-7.jpg",{"taskName":"上传","taskPath":"posts/formatting-reference/formatting-reference-7.jpg"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:53.360Z","args":["Task completed [57/73] posts/formatting-reference/formatting-reference-7.jpg",{"taskName":"上传","taskPath":"posts/formatting-reference/formatting-reference-7.jpg","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:53.363Z","args":["Executing task [58/73] posts/sample-folder-based-post/cover.png",{"taskName":"上传","taskPath":"posts/sample-folder-based-post/cover.png"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:53.662Z","args":["Task completed [58/73] posts/sample-folder-based-post/cover.png",{"taskName":"上传","taskPath":"posts/sample-folder-based-post/cover.png","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:53.665Z","args":["Executing task [59/73] posts/sample-folder-based-post/forest.png",{"taskName":"上传","taskPath":"posts/sample-folder-based-post/forest.png"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:53.981Z","args":["Task completed [59/73] posts/sample-folder-based-post/forest.png",{"taskName":"上传","taskPath":"posts/sample-folder-based-post/forest.png","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:53.984Z","args":["Executing task [60/73] posts/sample-folder-based-post/index.md",{"taskName":"上传","taskPath":"posts/sample-folder-based-post/index.md"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:54.049Z","args":["Task completed [60/73] posts/sample-folder-based-post/index.md",{"taskName":"上传","taskPath":"posts/sample-folder-based-post/index.md","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:54.049Z","args":["Executing task [61/73] projects/attachments/rock.png",{"taskName":"上传","taskPath":"projects/attachments/rock.png"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:54.499Z","args":["Task completed [61/73] projects/attachments/rock.png",{"taskName":"上传","taskPath":"projects/attachments/rock.png","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:54.503Z","args":["Executing task [62/73] projects/obsidian-astro-suite/glacier.png",{"taskName":"上传","taskPath":"projects/obsidian-astro-suite/glacier.png"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:54.672Z","args":["Task completed [62/73] projects/obsidian-astro-suite/glacier.png",{"taskName":"上传","taskPath":"projects/obsidian-astro-suite/glacier.png","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:54.672Z","args":["Executing task [63/73] projects/obsidian-astro-suite/index.md",{"taskName":"上传","taskPath":"projects/obsidian-astro-suite/index.md"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:54.770Z","args":["Task completed [63/73] projects/obsidian-astro-suite/index.md",{"taskName":"上传","taskPath":"projects/obsidian-astro-suite/index.md","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:54.770Z","args":["Executing task [64/73] posts/attachments/zootopia/libao.webp",{"taskName":"上传","taskPath":"posts/attachments/zootopia/libao.webp"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:55.030Z","args":["Task completed [64/73] posts/attachments/zootopia/libao.webp",{"taskName":"上传","taskPath":"posts/attachments/zootopia/libao.webp","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:55.033Z","args":["Executing task [65/73] posts/attachments/zootopia/gairui.webp",{"taskName":"上传","taskPath":"posts/attachments/zootopia/gairui.webp"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:55.193Z","args":["Task completed [65/73] posts/attachments/zootopia/gairui.webp",{"taskName":"上传","taskPath":"posts/attachments/zootopia/gairui.webp","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:55.193Z","args":["Executing task [66/73] posts/attachments/zootopia/stars.png",{"taskName":"上传","taskPath":"posts/attachments/zootopia/stars.png"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:57.158Z","args":["Task completed [66/73] posts/attachments/zootopia/stars.png",{"taskName":"上传","taskPath":"posts/attachments/zootopia/stars.png","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:57.162Z","args":["Executing task [67/73] posts/attachments/zootopia/embrace.png",{"taskName":"上传","taskPath":"posts/attachments/zootopia/embrace.png"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:58.798Z","args":["Task completed [67/73] posts/attachments/zootopia/embrace.png",{"taskName":"上传","taskPath":"posts/attachments/zootopia/embrace.png","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:37:58.801Z","args":["Executing task [68/73] posts/attachments/zootopia/Zoo.mp4",{"taskName":"上传","taskPath":"posts/attachments/zootopia/Zoo.mp4"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:38:05.788Z","args":["Task completed [68/73] posts/attachments/zootopia/Zoo.mp4",{"taskName":"上传","taskPath":"posts/attachments/zootopia/Zoo.mp4","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:38:05.792Z","args":["Executing task [69/73] posts/attachments/zootopia/Zootopia-1.png",{"taskName":"上传","taskPath":"posts/attachments/zootopia/Zootopia-1.png"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:38:07.546Z","args":["Task completed [69/73] posts/attachments/zootopia/Zootopia-1.png",{"taskName":"上传","taskPath":"posts/attachments/zootopia/Zootopia-1.png","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:38:07.550Z","args":["Executing task [70/73] posts/attachments/zootopia/xiedajie.jpg",{"taskName":"上传","taskPath":"posts/attachments/zootopia/xiedajie.jpg"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:38:07.878Z","args":["Task completed [70/73] posts/attachments/zootopia/xiedajie.jpg",{"taskName":"上传","taskPath":"posts/attachments/zootopia/xiedajie.jpg","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:38:07.881Z","args":["Executing task [71/73] posts/attachments/zootopia/Zootopia-2.png",{"taskName":"上传","taskPath":"posts/attachments/zootopia/Zootopia-2.png"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:38:09.664Z","args":["Task completed [71/73] posts/attachments/zootopia/Zootopia-2.png",{"taskName":"上传","taskPath":"posts/attachments/zootopia/Zootopia-2.png","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:38:09.668Z","args":["Executing task [72/73] posts/attachments/zootopia/Zootopia-3.jpg",{"taskName":"上传","taskPath":"posts/attachments/zootopia/Zootopia-3.jpg"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:38:10.097Z","args":["Task completed [72/73] posts/attachments/zootopia/Zootopia-3.jpg",{"taskName":"上传","taskPath":"posts/attachments/zootopia/Zootopia-3.jpg","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:38:10.101Z","args":["Executing task [73/73] posts/attachments/zootopia/Zootopia-cover.png",{"taskName":"上传","taskPath":"posts/attachments/zootopia/Zootopia-cover.png"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:38:13.064Z","args":["Task completed [73/73] posts/attachments/zootopia/Zootopia-cover.png",{"taskName":"上传","taskPath":"posts/attachments/zootopia/Zootopia-cover.png","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:38:13.069Z","args":["All tasks execution completed",{"totalTasks":73,"successCount":73,"failedCount":0}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:38:13.090Z","args":["tasks result",[{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true}],"failed:",0],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:38:13.456Z","args":["Records saving completed",{"recordsSize":73,"elapsedMs":242}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:39:25.537Z","args":["local Stats",[{"path":"bases","isDir":true},{"path":"docs","isDir":true},{"path":"pages","isDir":true},{"path":"posts","isDir":true},{"path":"projects","isDir":true},{"path":"special","isDir":true},{"path":"bases/Home.base","size":5790,"isDir":false},{"path":"bases/home.base.old","size":2668,"isDir":false},{"path":"docs/api.md","size":15733,"isDir":false},{"path":"docs/configuration.md","size":24224,"isDir":false},{"path":"docs/installing-obsidian.md","size":1349,"isDir":false},{"path":"docs/attachments","isDir":true},{"path":"docs/sourcetree-and-git-setup","isDir":true},{"path":"pages/about.md","size":2057,"isDir":false},{"path":"pages/contact.md","size":1143,"isDir":false},{"path":"pages/thank-you.md","size":171,"isDir":false},{"path":"pages/privacy-policy.md","size":16927,"isDir":false},{"path":"pages/attachments","isDir":true},{"path":"posts/getting-started.md","size":4173,"isDir":false},{"path":"posts/obsidian-embeds-demo.md","size":10037,"isDir":false},{"path":"posts/obsidian-vault-guide.md","size":16106,"isDir":false},{"path":"posts/zootopia.md","size":1424,"isDir":false},{"path":"posts/attachments","isDir":true},{"path":"posts/formatting-reference","isDir":true},{"path":"posts/sample-folder-based-post","isDir":true},{"path":"projects/astro-composer.md","size":2890,"isDir":false},{"path":"projects/attachments","isDir":true},{"path":"projects/obsidian-astro-suite","isDir":true},{"path":"special/404.md","size":129,"isDir":false},{"path":"special/posts.md","size":130,"isDir":false},{"path":"special/projects.md","size":82,"isDir":false},{"path":"special/home.md","size":69,"isDir":false},{"path":"special/docs.md","size":242,"isDir":false},{"path":"docs/attachments/astro-modular-configuration.png","size":848771,"isDir":false},{"path":"docs/attachments/obsidian-cover.png","size":67715,"isDir":false},{"path":"docs/sourcetree-and-git-setup/index.md","size":7079,"isDir":false},{"path":"docs/sourcetree-and-git-setup/sourcetree.png","size":16215,"isDir":false},{"path":"pages/attachments/water.png","size":79733,"isDir":false},{"path":"posts/attachments/astro-composer-suite-for-obsidian.png","size":140705,"isDir":false},{"path":"posts/attachments/galaxy.png","size":251551,"isDir":false},{"path":"posts/attachments/mountains-clouds.png","size":104143,"isDir":false},{"path":"posts/attachments/document.pdf","size":16136,"isDir":false},{"path":"posts/attachments/mountains.png","size":43360,"isDir":false},{"path":"posts/attachments/sunset.png","size":79468,"isDir":false},{"path":"posts/attachments/sound.wav","size":1599988,"isDir":false},{"path":"posts/attachments/video.mp4","size":86584,"isDir":false},{"path":"posts/attachments/zootopia.mp4","size":27277261,"isDir":false},{"path":"posts/attachments/zootopia","isDir":true},{"path":"posts/formatting-reference/formatting-reference-3.jpg","size":177173,"isDir":false},{"path":"posts/formatting-reference/formatting-reference-1.jpg","size":80852,"isDir":false},{"path":"posts/formatting-reference/formatting-reference-2.jpg","size":99202,"isDir":false},{"path":"posts/formatting-reference/formatting-reference-4.jpg","size":140663,"isDir":false},{"path":"posts/formatting-reference/formatting-reference-5.jpg","size":186308,"isDir":false},{"path":"posts/formatting-reference/formatting-reference-6.jpg","size":78845,"isDir":false},{"path":"posts/formatting-reference/formatting-reference.jpg","size":38805,"isDir":false},{"path":"posts/formatting-reference/index.md","size":11088,"isDir":false},{"path":"posts/formatting-reference/formatting-reference-7.jpg","size":86086,"isDir":false},{"path":"posts/sample-folder-based-post/cover.png","size":245823,"isDir":false},{"path":"posts/sample-folder-based-post/forest.png","size":232828,"isDir":false},{"path":"posts/sample-folder-based-post/index.md","size":1016,"isDir":false},{"path":"projects/attachments/rock.png","size":191700,"isDir":false},{"path":"projects/obsidian-astro-suite/glacier.png","size":120440,"isDir":false},{"path":"projects/obsidian-astro-suite/index.md","size":3496,"isDir":false},{"path":"posts/attachments/zootopia/libao.webp","size":175722,"isDir":false},{"path":"posts/attachments/zootopia/gairui.webp","size":22616,"isDir":false},{"path":"posts/attachments/zootopia/stars.png","size":1460278,"isDir":false},{"path":"posts/attachments/zootopia/embrace.png","size":1385253,"isDir":false},{"path":"posts/attachments/zootopia/Zoo.mp4","size":27277261,"isDir":false},{"path":"posts/attachments/zootopia/Zootopia-1.png","size":1324044,"isDir":false},{"path":"posts/attachments/zootopia/xiedajie.jpg","size":241408,"isDir":false},{"path":"posts/attachments/zootopia/Zootopia-2.png","size":1265841,"isDir":false},{"path":"posts/attachments/zootopia/Zootopia-3.jpg","size":779246,"isDir":false},{"path":"posts/attachments/zootopia/Zootopia-cover.png","size":6768149,"isDir":false}]],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:39:25.537Z","args":["remote Stats",[{"path":"bases","isDir":true},{"path":"docs","isDir":true},{"path":"pages","isDir":true},{"path":"posts","isDir":true},{"path":"projects","isDir":true},{"path":"special","isDir":true},{"path":"docs/attachments","isDir":true},{"path":"docs/sourcetree-and-git-setup","isDir":true},{"path":"pages/attachments","isDir":true},{"path":"posts/attachments","isDir":true},{"path":"posts/formatting-reference","isDir":true},{"path":"posts/sample-folder-based-post","isDir":true},{"path":"projects/attachments","isDir":true},{"path":"projects/obsidian-astro-suite","isDir":true},{"path":"posts/attachments/zootopia","isDir":true},{"path":"bases/Home.base","size":5790,"isDir":false},{"path":"bases/home.base.old","size":2668,"isDir":false},{"path":"docs/api.md","size":15733,"isDir":false},{"path":"docs/configuration.md","size":24224,"isDir":false},{"path":"docs/installing-obsidian.md","size":1349,"isDir":false},{"path":"pages/about.md","size":2057,"isDir":false},{"path":"pages/contact.md","size":1143,"isDir":false},{"path":"pages/thank-you.md","size":171,"isDir":false},{"path":"pages/privacy-policy.md","size":16927,"isDir":false},{"path":"posts/getting-started.md","size":4173,"isDir":false},{"path":"posts/obsidian-embeds-demo.md","size":10037,"isDir":false},{"path":"posts/obsidian-vault-guide.md","size":16106,"isDir":false},{"path":"posts/zootopia.md","size":1429,"isDir":false},{"path":"projects/astro-composer.md","size":2890,"isDir":false},{"path":"special/404.md","size":129,"isDir":false},{"path":"special/posts.md","size":130,"isDir":false},{"path":"special/projects.md","size":82,"isDir":false},{"path":"special/home.md","size":69,"isDir":false},{"path":"special/docs.md","size":242,"isDir":false},{"path":"docs/attachments/astro-modular-configuration.png","size":848771,"isDir":false},{"path":"docs/attachments/obsidian-cover.png","size":67715,"isDir":false},{"path":"docs/sourcetree-and-git-setup/index.md","size":7079,"isDir":false},{"path":"docs/sourcetree-and-git-setup/sourcetree.png","size":16215,"isDir":false},{"path":"pages/attachments/water.png","size":79733,"isDir":false},{"path":"posts/attachments/astro-composer-suite-for-obsidian.png","size":140705,"isDir":false},{"path":"posts/attachments/galaxy.png","size":251551,"isDir":false},{"path":"posts/attachments/mountains-clouds.png","size":104143,"isDir":false},{"path":"posts/attachments/document.pdf","size":16136,"isDir":false},{"path":"posts/attachments/mountains.png","size":43360,"isDir":false},{"path":"posts/attachments/sunset.png","size":79468,"isDir":false},{"path":"posts/attachments/sound.wav","size":1599988,"isDir":false},{"path":"posts/attachments/video.mp4","size":86584,"isDir":false},{"path":"posts/attachments/zootopia.mp4","size":27277261,"isDir":false},{"path":"posts/formatting-reference/formatting-reference-3.jpg","size":177173,"isDir":false},{"path":"posts/formatting-reference/formatting-reference-1.jpg","size":80852,"isDir":false},{"path":"posts/formatting-reference/formatting-reference-2.jpg","size":99202,"isDir":false},{"path":"posts/formatting-reference/formatting-reference-4.jpg","size":140663,"isDir":false},{"path":"posts/formatting-reference/formatting-reference-5.jpg","size":186308,"isDir":false},{"path":"posts/formatting-reference/formatting-reference-6.jpg","size":78845,"isDir":false},{"path":"posts/formatting-reference/formatting-reference.jpg","size":38805,"isDir":false},{"path":"posts/formatting-reference/index.md","size":11088,"isDir":false},{"path":"posts/formatting-reference/formatting-reference-7.jpg","size":86086,"isDir":false},{"path":"posts/sample-folder-based-post/cover.png","size":245823,"isDir":false},{"path":"posts/sample-folder-based-post/forest.png","size":232828,"isDir":false},{"path":"posts/sample-folder-based-post/index.md","size":1016,"isDir":false},{"path":"projects/attachments/rock.png","size":191700,"isDir":false},{"path":"projects/obsidian-astro-suite/glacier.png","size":120440,"isDir":false},{"path":"projects/obsidian-astro-suite/index.md","size":3496,"isDir":false},{"path":"posts/attachments/zootopia/libao.webp","size":175722,"isDir":false},{"path":"posts/attachments/zootopia/gairui.webp","size":22616,"isDir":false},{"path":"posts/attachments/zootopia/stars.png","size":1460278,"isDir":false},{"path":"posts/attachments/zootopia/embrace.png","size":1385253,"isDir":false},{"path":"posts/attachments/zootopia/Zoo.mp4","size":27277261,"isDir":false},{"path":"posts/attachments/zootopia/Zootopia-1.png","size":1324044,"isDir":false},{"path":"posts/attachments/zootopia/xiedajie.jpg","size":241408,"isDir":false},{"path":"posts/attachments/zootopia/Zootopia-2.png","size":1265841,"isDir":false},{"path":"posts/attachments/zootopia/Zootopia-3.jpg","size":779246,"isDir":false},{"path":"posts/attachments/zootopia/Zootopia-cover.png","size":6768149,"isDir":false}]],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:39:25.537Z","args":[{"reason":"remote file changed","remotePath":"/content/posts/zootopia.md","localPath":"posts/zootopia.md","conditions":{"remoteChanged":true,"recordExists":true,"remoteExists":true,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:39:28.884Z","args":["Starting to execute sync tasks",{"totalTasks":1}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:39:28.884Z","args":["Executing task [1/1] posts/zootopia.md",{"taskName":"下载","taskPath":"posts/zootopia.md"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:39:28.915Z","args":["Task completed [1/1] posts/zootopia.md",{"taskName":"下载","taskPath":"posts/zootopia.md","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:39:28.915Z","args":["All tasks execution completed",{"totalTasks":1,"successCount":1,"failedCount":0}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:39:28.948Z","args":["tasks result",[{"success":true}],"failed:",0],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-12-04T07:39:29.183Z","args":["Records saving completed",{"recordsSize":73,"elapsedMs":24}],"type":"debug","level":4,"tag":""}

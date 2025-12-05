@@ -21,7 +21,7 @@ aliases:
 ---
 # 图库[^1]
 
-## 🐰朱迪，🦊尼克，🐍盖瑞，河狸
+## 🐰朱迪，🦊尼克，🐍盖瑞，🦫河狸
 ![Zootopia2](attachments/zootopia/Zootopia-cover.png)
 
 ## 合照
