@@ -28,6 +28,8 @@ lerna-debug.log*
 *.sln
 *.sw?
 
+
+
 # Temporary files
 *.tmp
 *.temp
@@ -49,3 +51,6 @@ public/_headers
 
 # Local Netlify folder
 .netlify
+
+# Netlify Log
+*.log
